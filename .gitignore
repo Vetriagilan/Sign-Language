@@ -1,0 +1,25 @@
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+sign_lang_env/
+sign_lang_env310/
+venv/
+env/
+.venv/
+ENV/
+
+# Datasets (Large files)
+asl_alphabet_train/
+asl_alphabet_test/
+features.npy
+labels.npy
+
+# IDE & OS configuration
+.vscode/
+.idea/
+.DS_Store
+*.log
